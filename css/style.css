@@ -70,3 +70,8 @@
 .lupa .fa.fa-search{      /* kako da promjenim pozdainu kod lupe u crnu??*/
     color: white;
 }
+
+.carousel-inner{
+    
+    width: 100%;
+}
