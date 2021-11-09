@@ -61,17 +61,8 @@
 
 .navbar-light .navbar-nav .nav-link {
     color: white;
-    width: 100%;
-}
-.lupa{
-    background-color:black;
 }
 
-.lupa .fa.fa-search{      /* kako da promjenim pozdainu kod lupe u crnu??*/
-    color: white;
-}
-
-.meni-nav{
-    float: left;
-    width: 100%;
+.lupa button{
+    padding:0px;
 }
