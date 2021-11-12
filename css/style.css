@@ -1,4 +1,6 @@
+
 .honeys-main {
+
     background-image: url(../img/body-bg.png);
 }
 
@@ -156,4 +158,64 @@
 .text-slider p:nth-of-type(2){
     font-size:62pt;
     color:#47aba1;
+}
+
+
+
+.ispod-slika{
+    float: left;
+    width: 100%;
+}
+
+
+/*
+.ispod-slika .prva-slika{
+    width:577px;
+    height:364px;
+}
+
+
+.ispod-slika .druga-slika{
+    width:394px;
+    height:350px;
+}
+*/
+.ispod-slika .prva-slika .druga-slika{
+   margin-top: 8px;
+   vertical-align: middle;
+}
+
+.text-slider button:focus {
+    outline: none;
+    border: none;
+    border-color: transparent;
+    box-shadow: transparent !important;
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+.text-slider button{
+    background: transparent;
+    border-color: transparent;
+
+}
+
+.ispod-slika .col-7, .ispod-slika .col-5{
+    padding: 0px;
+    float: left;
+    width:100%;
+    
+}
+
+.ispod-slika .col-7 .prva-slika{
+    width:100%;
+    float: left;
+    height:350px;
+
+}
+.ispod-slika .col-5 .druga-slika{
+    width:100%;
+    float: left;
+    height:350px;
 }
